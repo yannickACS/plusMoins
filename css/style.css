@@ -1,0 +1,6 @@
+.InterfaceJeu-compteur{
+	display: flex;
+}
+#rejouer{
+	display: none;
+}
